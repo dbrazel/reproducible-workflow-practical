@@ -1,0 +1,485 @@
+campus,title,dept,annual_ftr,ftr_basis,frac_fte,amt_from_gen_fund
+Flint,LEO Lecturer I,Flint Engineering,41820,8-Month,0.25,10337.52
+Flint,ASSOC PROFESSOR,Flint Africana Studies Dept,73112.64,9-Month,0.67,48985.46
+Flint,ASSOC PROFESSOR,Flint Political Science,73040.82,9-Month,0.33,24103.47
+Flint,LEO Lecturer I,Flint Theatre and Dance,41000,8-Month,0.25,10134.8
+Flint,ASST PROFESSOR,Flint School of Management,126844.81,9-Month,1,126844.81
+Flint,LEO Intermittent Lecturer,Flint Physical Therapy,63240,8-Month,0.14,9066.8
+Flint,LEO Lecturer IV,Flint English,63078.71,9-Month,1,63078.71
+Flint,PROFESSOR,Flint Music,92251.77,9-Month,1,92251.77
+Flint,PROFESSOR,Flint Mathematics,119091.52,9-Month,1,119091.52
+Flint,ASSOC PROFESSOR,Flint Computer Science,91702.31,9-Month,1,91702.31
+Flint,ASSOC PROFESSOR,Flint Computer Science,91907.96,9-Month,1,91907.96
+Flint,ASSOC PROFESSOR,Flint Physical Therapy,107257.26,12-Month,1,104908.33
+Flint,ASSOC PROFESSOR,Flint Physics,74802.34,9-Month,1,74802.34
+Flint,ASSOC PROFESSOR,Flint Engineering,94511.27,9-Month,1,94511.27
+Flint,ASSOC PROFESSOR,"Flint Soc,Anthropology & CJ",73043.4,9-Month,1,73043.4
+Flint,LEO Lecturer I,Flint Psychology,41000,8-Month,0.25,10134.8
+Flint,ASST PROFESSOR,Flint Dept Pub Hlth & Hlth Sci,74976.43,9-Month,1,74976.43
+Flint,PROFESSOR,Flint Philosophy,100250.79,9-Month,1,100250.79
+Flint,LEO Lecturer II,Flint Nursing,59034.88,8-Month,0.66,38904.72
+Flint,LEO Lecturer II,Flint Nursing,49378.1,8-Month,0.7,34493.68
+Flint,ASST PROFESSOR,Flint Nursing,81391.34,9-Month,1,81391.34
+Flint,ASSOC PROFESSOR,Flint Philosophy,71792.31,9-Month,1,71792.31
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,38739.4,8-Month,0.3,11491.2
+Flint,LEO Lecturer II,Flint Social Work,44345.36,8-Month,0.25,10961.84
+Flint,LEO Lecturer I,Flint Engineering,41820,8-Month,0.25,10337.52
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,0.4,16540.08
+Flint,LEO Lecturer II,Flint English,45642.35,9-Month,0.75,34231.77
+Flint,LEO Lecturer I,Flint Computer Science,41000,8-Month,0.25,10134.8
+Flint,LEO Lecturer I,Flint Nursing,41000,8-Month,0.22,8918.64
+Flint,PROFESSOR,Flint School of Management,147361.72,9-Month,1,147361.72
+Flint,ASST PROFESSOR,Flint Physics,62118,9-Month,1,62118
+Flint,LEO Lecturer II,Flint Communications Studies,44837.08,8-Month,0.25,11083.36
+Flint,PROFESSOR,"Flint Soc,Anthropology & CJ",114770.11,9-Month,1,114770.11
+Flint,LEO Lecturer IV,Flint Psychology,53072.89,9-Month,1,53072.89
+Flint,LEO Lecturer I,Flint Dept Pub Hlth & Hlth Sci,41820,8-Month,0.25,10337.6
+Flint,ASST PROFESSOR,Flint Nursing,78682.8,9-Month,1,74748.66
+Flint,LEO Lecturer IV,Flint Nursing,78368.46,9-Month,1,78368.46
+Flint,LEO Lecturer IV,Flint Psychology,77667,9-Month,1,77667
+Flint,ASST PROFESSOR,"Flint Soc,Anthropology & CJ",64753.36,9-Month,1,64753.36
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.33,11093.92
+Flint,PROFESSOR,Flint English,110254.71,9-Month,1,110254.71
+Flint,ASST PROFESSOR,"Flint Soc,Anthropology & CJ",64753.36,9-Month,1,49937.79
+Flint,LEO Lecturer I,Flint Physical Therapy,63240,8-Month,0.24,15069.6
+Flint,ASST PROFESSOR,Flint Computer Science,81581.2,9-Month,1,81581.2
+Flint,ASSOC PROFESSOR,Flint Physical Therapy,103991.56,12-Month,1,68842.41
+Flint,PROFESSOR,Flint School of Management,154936.94,9-Month,1,154936.94
+Flint,PROFESSOR,Flint English,92908.47,9-Month,1,92908.47
+Flint,LEO Lecturer I,Flint Education,41820,8-Month,0.25,10337.6
+Flint,LEO Lecturer II,Flint Mathematics,44690,8-Month,0.33,14714.56
+Flint,LEO Lecturer II,Flint English,48336.01,8-Month,1,47792.96
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,1,33618
+Flint,PROFESSOR,Flint Education,271592.88,9-Month,1,271592.88
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,64409.17,8-Month,0.25,15921.44
+Flint,LEO Lecturer IV,Flint Theatre and Dance,56079.05,9-Month,0.75,42059.29
+Flint,LEO Lecturer IV,Flint Dept Pub Hlth & Hlth Sci,94612.71,12-Month,1,94612.71
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,46104.74,9-Month,0.25,11526.19
+Flint,ASSOC PROFESSOR,Flint English,77775.9,9-Month,1,77775.88
+Flint,ASSOC PROFESSOR,Flint Psychology,77603.68,9-Month,1,77603.68
+Flint,LEO Lecturer IV,Flint MA-Art Administration,57716.84,9-Month,0.5,28858.42
+Flint,LEO Lecturer IV,Flint Theatre and Dance,57716.84,9-Month,0.5,28858.42
+Flint,LEO Lecturer II,Flint Computer Science,49877.34,9-Month,0.41,20748.98
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.3,10085.36
+Flint,PROFESSOR,Flint Dept Pub Hlth & Hlth Sci,149852.33,9-Month,0.5,74926.16
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.3,10085.36
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,45583.8,8-Month,0.25,11267.92
+Flint,ASSOC PROFESSOR,Flint Engineering,96061.81,9-Month,1,96061.81
+Flint,ASST PROFESSOR,Flint Nursing,79099.66,9-Month,1,79099.66
+Flint,ASST PROFESSOR,Flint Education,62473.31,9-Month,1,62473.31
+Flint,LEO Lecturer II,Flint Biology,44217.05,8-Month,0.33,14558.88
+Flint,ASST PROFESSOR,Flint Nursing,96168.08,12-Month,1,96168.08
+Flint,LEO Lecturer II,Flint Mathematics,45642.48,8-Month,0.25,11282.48
+Flint,LEO Lecturer I,Flint Physical Therapy,65295.72,8-Month,0.14,9361.52
+Flint,ASST PROFESSOR,Flint Occupational Therapy,90000,12-Month,1,90000
+Flint,LEO Lecturer II,Flint Music,49876.98,8-Month,0.26,12822.32
+Flint,PROFESSOR,Flint School of Management,152411.33,9-Month,1,152411.33
+Flint,LEO Lecturer II,Flint Music,45153.36,8-Month,0.82,36609.76
+Flint,LEO Adjunct Lecturer,Flint Music,41820,8-Month,0.25,10337.6
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,50200.7,8-Month,0.25,12409.2
+Flint,PROFESSOR,Flint School of Management,163493.25,9-Month,1,163493.25
+Flint,ASST PROFESSOR,Flint Biology,62500,9-Month,1,62500
+Flint,LEO Lecturer I,Flint Computer Science,41820,8-Month,0.25,10337.52
+Flint,LEO Lecturer II,Flint English,45153.36,8-Month,0.75,33484.56
+Flint,ASSOC PROFESSOR,Flint Mathematics,78484.36,9-Month,1,78484.36
+Flint,LEO Lecturer II,Flint Nursing,49379.5,8-Month,0.22,10741.44
+Flint,LEO Adjunct Lecturer,Flint Occupational Therapy,56000,8-Month,0.09,5370.96
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,37270.8,8-Month,0.33,12161.2
+Flint,ASST PROFESSOR,Flint Education,57976.8,9-Month,1,57976.8
+Flint,LEO Lecturer I,Flint Education,41820,8-Month,0.25,10337.6
+Flint,ASSOC PROFESSOR,Flint Nursing,89875.57,9-Month,1,85381.79
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,1,41350.08
+Flint,LEO Lecturer IV,Flint Biology,50187.94,9-Month,1,50187.94
+Flint,LEO Lecturer II,Flint Music,46557.9,8-Month,0.08,3682.8
+Flint,ASSOC PROFESSOR,Flint Nursing,91750.56,9-Month,0.5,45875.28
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.44,14791.92
+Flint,LEO Lecturer I,Flint Education,41820,8-Month,0.16,6884.8
+Flint,LEO Lecturer IV,Flint School of Management,93914.52,9-Month,0.75,70435.89
+Flint,ASST PROFESSOR,Flint Education,60319.06,9-Month,1,60319.06
+Flint,ASSOC PROFESSOR,Flint Philosophy,84604.36,9-Month,1,84604.36
+Flint,LEO Lecturer IV,Flint Foreign Language,76302.98,9-Month,1,76302.98
+Flint,ASSOC PROFESSOR,Flint Nursing,90416.38,9-Month,1,90416.38
+Flint,LEO Lecturer II,Flint Nursing,46648.05,8-Month,0.8,36899.2
+Flint,LEO Lecturer I,Flint Music,41820,8-Month,0.32,13232
+Flint,LEO Lecturer I,Flint Mathematics,41820,8-Month,0.58,24107.12
+Flint,LEO Lecturer I,Flint Art & Art History,41820,8-Month,1,41350.16
+Flint,LEO Lecturer II,Flint Theatre and Dance,45583.8,8-Month,0.75,33803.76
+Flint,ASSOC PROFESSOR,Flint Biology,79840.43,9-Month,0.5,39920.22
+Flint,LEO Lecturer I,Flint Occupational Therapy,63240,8-Month,0.07,4564.72
+Flint,LEO Lecturer II,Flint Economics,60204.16,8-Month,0.25,14882
+Flint,LEO Lecturer II,Flint MPA Web Plus,60204.16,8-Month,0.25,14882
+Flint,LEO Lecturer I,Flint Music,41820,8-Month,0.04,1654.08
+Flint,ASSOC PROFESSOR,Flint Theatre and Dance,75169.29,9-Month,1,75169.29
+Flint,ASST PROFESSOR,Flint Art & Art History,60000,9-Month,1,60000
+Flint,LEO Lecturer I,Flint Mathematics,41820,8-Month,0.58,24107.12
+Flint,LEO Lecturer I,Flint Economics,41820,8-Month,0.25,10337.6
+Flint,LEO Lecturer I,Flint Education,41820,8-Month,0.25,10337.6
+Flint,ASSOC PROFESSOR,Flint Music,75736.71,9-Month,1,75736.71
+Flint,LEO Lecturer IV,Flint Education,47807.4,9-Month,0.5,23903.7
+Flint,ASSOC PROFESSOR,Flint Education,77832.06,9-Month,1,77832.06
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,44217,9-Month,0.25,11054.25
+Flint,ASSOC PROFESSOR,Flint Economics,96261.8,9-Month,1,96261.8
+Flint,LEO Intermittent Lecturer,Flint Dept Pub Hlth & Hlth Sci,41820,8-Month,0.25,10337.6
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,45872.96,8-Month,0.25,11339.44
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,36000,8-Month,0.3,10678.64
+Flint,ASST PROFESSOR,"Flint Soc,Anthropology & CJ",65918.41,9-Month,1,65918.41
+Flint,LEO Lecturer II,Flint Art & Art History,45153.36,8-Month,1,44646.08
+Flint,LEO Lecturer I,Flint Education,41820,8-Month,0.62,25843.84
+Flint,PROFESSOR,Flint Biology,118000,9-Month,1,66670
+Flint,LEO Lecturer II,Flint Education,47962.44,9-Month,0.5,23981.22
+Flint,ASST PROFESSOR,Flint Education,60047.4,9-Month,0.33,19815.64
+Flint,ASST PROFESSOR,Flint Physics,60047.4,9-Month,0.67,40231.76
+Flint,LEO Lecturer II,Flint English,47312.19,9-Month,0.75,35484.15
+Flint,LEO Lecturer II,Flint Nursing,55399.89,8-Month,0.46,25553.68
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,45642.48,8-Month,0.5,22564.8
+Flint,PROFESSOR,Flint History,91401.07,9-Month,1,91401.07
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,37270.8,8-Month,0.3,11055.6
+Flint,LEO Lecturer II,Flint Africana Studies Dept,88497.88,9-Month,0.66,59028.09
+Flint,LEO Lecturer II,Flint English,89762.02,9-Month,0.33,29890.76
+Flint,LEO Lecturer I,Flint Computer Science,41820,8-Month,0.25,10337.6
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,38739.4,8-Month,0.77,29494.16
+Flint,LEO Intermittent Lecturer,Flint Nursing,41000,8-Month,0.2,8107.84
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34181.84,8-Month,0.13,4689.44
+Flint,ASST PROFESSOR,Flint Nursing,77647.5,9-Month,1,77647.5
+Flint,ASSOC PROFESSOR,Flint English,73147.4,9-Month,1,73147.4
+Flint,ASSOC PROFESSOR,Flint Dept of Chem/Biochem,73369.09,9-Month,1,73369.09
+Flint,LEO Lecturer I,Flint Theatre and Dance,41820,8-Month,0.5,20675.12
+Flint,LEO Lecturer III,Flint School of Management,55765.44,9-Month,0.75,41824.08
+Flint,ASSOC PROFESSOR,Flint Nursing,94325.56,9-Month,1,94325.56
+Flint,LEO Lecturer II,Flint Nursing,60751.65,8-Month,0.73,44045.68
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.3,10085.36
+Flint,LEO Lecturer II,Flint Nursing,55977.78,9-Month,0.6,33586.67
+Flint,LEO Lecturer IV,Flint Theatre and Dance,77026.8,9-Month,1,77026.8
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,0.53,22050
+Flint,LEO Lecturer I,"Flint Soc,Anthropology & CJ",43860,8-Month,0.25,10841.84
+Flint,LEO Lecturer IV,Flint Foreign Language,56094.63,9-Month,0.91,51382.69
+Flint,PROFESSOR EMERITUS/A,Flint English,56000,8-Month,0.25,13842.72
+Flint,LEO Lecturer IV,Flint Computer Science,94936.07,9-Month,1,94936.07
+Flint,ASSOC PROFESSOR,Flint Physics,77787.3,9-Month,1,77787.3
+Flint,ASSOC PROFESSOR,Flint Art & Art History,72758.5,9-Month,1,72758.5
+Flint,ASSOC PROFESSOR,Flint Africana Studies Dept,81713.87,9-Month,1,81713.87
+Flint,LEO Lecturer I,Flint Art & Art History,41820,8-Month,0.25,10337.52
+Flint,LEO Lecturer II,Flint Communications Studies,44268,9-Month,0.37,16600.5
+Flint,LEO Intermittent Lecturer,Flint Physical Therapy,64505.08,8-Month,0.41,26213.76
+Flint,ASSOC PROFESSOR,Flint English,77713.11,9-Month,1,77713.11
+Flint,LEO Lecturer I,"Flint Soc,Anthropology & CJ",41820,8-Month,0.25,10337.6
+Flint,LEO Lecturer II,Flint Philosophy,45153.36,9-Month,0.75,33865.02
+Flint,ASST PROFESSOR,Flint Nursing,94500,12-Month,0.5,47250
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.3,10085.36
+Flint,LEO Lecturer I,Flint Education,41000,8-Month,0.37,15202.24
+Flint,LEO Lecturer IV,Flint Physics,81872.33,9-Month,1,81872.33
+Flint,LEO Lecturer II,"Flint Geo, Planning & Environ",44217,8-Month,1,43720.24
+Flint,LEO Lecturer II,Flint Social Work,45642.48,8-Month,0.5,22564.88
+Flint,ASST PROFESSOR,Flint Social Work,57976.8,9-Month,1,57976.8
+Flint,LEO Lecturer II,Flint Nursing,52658.71,8-Month,0.22,11454.8
+Flint,LEO Lecturer II,Flint Biology,62201.48,9-Month,0.5,31100.74
+Flint,LEO Lecturer II,Flint Computer Science,45642.35,8-Month,0.5,22564.72
+Flint,ASSOC PROFESSOR,Flint Nursing,89733.09,9-Month,1,89733.09
+Flint,ASSOC PROFESSOR,Flint Theatre and Dance,75265.08,9-Month,1,75265.08
+Flint,LEO Lecturer II,Flint Physical Therapy,76521.56,9-Month,0.19,14768.66
+Flint,PROFESSOR,Flint Mathematics,93062.6,9-Month,1,93062.6
+Flint,PROFESSOR,Flint History,104510.66,9-Month,1,104510.66
+Flint,ASSOC PROFESSOR,Flint Mathematics,92232.42,9-Month,1,92232.42
+Flint,LEO Lecturer II,Flint Biology,45583.8,9-Month,1,45583.8
+Flint,LEO Lecturer II,Flint Nursing,44690,8-Month,0.5,22094
+Flint,LEO Lecturer II,Flint Computer Science,44690,9-Month,0.25,11172.5
+Flint,LEO Lecturer II,Flint Physics,47312.19,9-Month,0.41,19729.18
+Flint,LEO Lecturer IV,Flint History,71722.29,9-Month,0.25,17930.57
+Flint,ASSOC PROFESSOR,Flint Music,74299.78,9-Month,1,74299.78
+Flint,ASSOC PROFESSOR,Flint Psychology,77778.88,9-Month,1,77778.88
+Flint,PROFESSOR,Flint School of Management,144587.74,9-Month,1,144587.74
+Flint,PROFESSOR,Flint School of Management,145839.3,9-Month,1,145839.3
+Flint,ASSOC PROFESSOR,Flint History,75578.71,9-Month,1,0
+Flint,LEO Lecturer II,Flint Mathematics,44268,8-Month,0.25,10942.64
+Flint,LEO Lecturer II,Flint Dept of Chem/Biochem,45153.36,8-Month,1,44646.08
+Flint,LEO Lecturer II,Flint Art & Art History,44244.64,8-Month,0.5,21873.76
+Flint,LEO Lecturer II,Flint Nursing,54928,8-Month,0.6,32586.48
+Flint,LEO Intermittent Lecturer,Flint Physical Therapy,64505.22,8-Month,0.14,9248.24
+Flint,LEO Lecturer II,Flint Social Work,45583.8,8-Month,0.5,22535.84
+Flint,LEO Lecturer IV,Flint Dept Pub Hlth & Hlth Sci,86957.36,12-Month,0.59,51304.85
+Flint,LEO Lecturer II,Flint English,45153.36,9-Month,0.75,33865.02
+Flint,ASSOC PROFESSOR,Flint English,80077.25,9-Month,1,80077.25
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,36622.28,8-Month,0.35,12990.64
+Flint,ASSOC PROFESSOR,Flint Biology,71874.74,9-Month,1,71874.74
+Flint,LEO Lecturer II,Flint Biology,62714.58,8-Month,1,62009.92
+Flint,PROFESSOR,Flint Psychology,90894.29,9-Month,1,90894.29
+Flint,LEO Lecturer I,Flint Dept of Chem/Biochem,41820,8-Month,1,41350.16
+Flint,LEO Lecturer II,Flint Education,45185.03,8-Month,0.58,26058.08
+Flint,ASSOC PROFESSOR,Flint Music,75166.19,9-Month,1,75166.19
+Flint,ASSOC PROFESSOR,Flint Physical Therapy,107317.63,12-Month,1,107317.63
+Flint,LEO Lecturer IV,Flint Dept of Chem/Biochem,73304.3,9-Month,1,73304.3
+Flint,ASSOC PROFESSOR,Flint Theatre and Dance,76054.28,9-Month,1,76054.28
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34510,8-Month,0.3,10236.64
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,36000,8-Month,0.57,20289.44
+Flint,LEO Lecturer II,Flint Social Work,45642.43,8-Month,0.25,11282.4
+Flint,LEO Lecturer II,Flint Art & Art History,43916.15,8-Month,0.25,10855.68
+Flint,LEO Lecturer II,Flint Theatre and Dance,47312.28,8-Month,0.25,11695.2
+Flint,LEO Lecturer II,Flint Psychology,45153.36,9-Month,0.75,33865.02
+Flint,LEO Lecturer II,Flint Nursing,49378.37,8-Month,0.93,45564.56
+Flint,LEO Lecturer II,Flint Education,44690,8-Month,0.66,29785.89
+Flint,LEO Lecturer II,Flint Computer Science,51205.94,9-Month,0.91,46955.85
+Flint,PROFESSOR,Flint School of Management,153559.26,9-Month,0.33,50674.56
+Flint,ASST PROFESSOR,Flint School of Management,129348.32,9-Month,1,129348.32
+Flint,PROFESSOR,"Flint Geo, Planning & Environ",107629.84,9-Month,1,107629.84
+Flint,ASSOC PROFESSOR,Flint Nursing,130165.4,12-Month,0.5,65082.7
+Flint,ASSOC PROFESSOR,Flint School of Management,126144.14,9-Month,1,126144.14
+Flint,ASSOC PROFESSOR,Flint Dept of Chem/Biochem,77896.6,9-Month,1,77896.6
+Flint,LEO Lecturer II,Flint Mpa Program,53750.88,9-Month,0.25,13437.72
+Flint,ASSOC PROFESSOR,Flint Education,71606.98,9-Month,1,71606.98
+Flint,LEO Intermittent Lecturer,Flint Physical Therapy,71590.64,8-Month,0.11,7786.48
+Flint,LEO Lecturer I,Flint Engineering,41820,8-Month,1,41350.08
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,48314.09,8-Month,0.25,11942.88
+Flint,ASST PROFESSOR,Flint Social Work,57976.8,9-Month,1,54979.4
+Flint,ASSOC PROFESSOR,Flint Dept of Chem/Biochem,77210.39,9-Month,1,77210.39
+Flint,LEO Intermittent Lecturer,Flint Physical Therapy,62000,8-Month,0.19,11831.52
+Flint,LEO Intermittent Lecturer,Flint Physical Therapy,63240,8-Month,0.33,21134.96
+Flint,PROFESSOR,Flint History,96508,9-Month,1,96508
+Flint,LEO Lecturer IV,Flint School of Management,75730.68,9-Month,1,75730.68
+Flint,ASSOC PROFESSOR,Flint Education,73779.83,9-Month,1,73779.83
+Flint,ASSOC PROFESSOR,Flint English,77986.94,9-Month,1,77986.94
+Flint,LEO Lecturer II,Flint Foreign Language,46680.45,9-Month,1,46680.45
+Flint,ASSOC PROFESSOR,Flint Dept Pub Hlth & Hlth Sci,89733.08,9-Month,1,89733.08
+Flint,LEO Lecturer IV,Flint Nursing,104040,12-Month,0.5,52020
+Flint,LEO Lecturer II,Flint Nursing,52070.57,8-Month,0.53,27454.72
+Flint,ASSOC PROFESSOR,Flint Political Science,80790.16,9-Month,1,80790.16
+Flint,ASSOC PROFESSOR,Flint Nursing,91701.2,9-Month,1,91701.2
+Flint,LEO Lecturer II,Flint Nursing,53087.91,8-Month,0.82,43147.92
+Flint,LEO Lecturer II,Flint Nursing,49394.84,8-Month,0.22,10744.8
+Flint,LEO Lecturer IV,Flint School of Management,77399.77,9-Month,0.75,58049.83
+Flint,LEO Lecturer II,Flint Education,47593.37,8-Month,0.25,11764.72
+Flint,ASSOC PROFESSOR,Flint Dept Pub Hlth & Hlth Sci,87238.79,9-Month,1,87238.79
+Flint,LEO Lecturer IV,Flint English,64483.25,9-Month,1,64483.25
+Flint,ASSOC PROFESSOR,Flint English,75573.25,9-Month,1,75573.25
+Flint,ASSOC PROFESSOR,Flint Physical Therapy,128320.19,12-Month,0.8,102656.15
+Flint,ASSOC PROFESSOR,"Flint Soc,Anthropology & CJ",77069.88,9-Month,1,77069.88
+Flint,PROFESSOR,Flint School of Management,145361.56,9-Month,1,145361.56
+Flint,LEO Lecturer II,Flint Communications Studies,44217.09,8-Month,0.5,21860.16
+Flint,LEO Lecturer I,Flint Biology,41000,8-Month,0.83,33809.76
+Flint,LEO Lecturer III,Flint School of Management,83640,9-Month,1,83640
+Flint,ASST PROFESSOR,"Flint Soc,Anthropology & CJ",64247.97,9-Month,1,49548.03
+Flint,LEO Lecturer II,Flint Education,44217.09,8-Month,0.5,21860.16
+Flint,LEO Lecturer II,Flint Nursing,52658.45,8-Month,0.64,33322.8
+Flint,ASSOC PROFESSOR,Flint Nursing,94059.5,9-Month,0.5,47029.75
+Flint,ASST PROFESSOR,Flint Engineering,86367.87,9-Month,1,86367.87
+Flint,ASSOC PROFESSOR,Flint School of Management,118711.28,9-Month,1,118711.28
+Flint,ASST PROFESSOR,Flint School of Management,148560.57,9-Month,1,148560.57
+Flint,ASST PROFESSOR,Flint Physical Therapy,92000,12-Month,1,92000
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,0.1,4135.04
+Flint,LEO Lecturer II,Flint English,44690,8-Month,0.75,33140.96
+Flint,LEO Intermittent Lecturer,Flint Physical Therapy,56181.88,8-Month,0.26,14720.96
+Flint,ASST PROFESSOR,Flint Nursing,81859.44,9-Month,1,81859.44
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,36000,8-Month,0.15,5339.36
+Flint,ASSOC PROFESSOR,"Flint Soc,Anthropology & CJ",75340.79,9-Month,1,75340.79
+Flint,ASST PROFESSOR,Flint School of Management,147699.91,9-Month,1,147699.91
+Flint,LEO Lecturer II,Flint Mathematics,45642.58,8-Month,0.33,15028.24
+Flint,ASSOC PROFESSOR,Flint School of Management,128808.68,9-Month,1,128808.68
+Flint,LEO Lecturer I,Flint Art & Art History,45465.88,8-Month,0.25,11238.8
+Flint,LEO Lecturer I,Flint Political Science,41820,8-Month,0.5,20675.04
+Flint,PROFESSOR EMERITUS/A,Flint School of Management,150000,12-Month,0.5,75000
+Flint,LEO Lecturer II,Flint Engineering,47312.26,8-Month,1,46780.72
+Flint,ASST PROFESSOR,Flint Nursing,79222.78,9-Month,1,79222.78
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,0.2,8270.08
+Flint,ASSOC PROFESSOR,Flint Economics,99808.76,9-Month,1,99808.76
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.3,10085.36
+Flint,ASST PROFESSOR,Flint Social Work,59136.34,9-Month,1,59136.34
+Flint,LEO Lecturer IV,Flint Social Work,62508.07,9-Month,1,62508.07
+Flint,LEO Lecturer II,Flint Economics,43055,8-Month,0.25,10642.8
+Flint,LEO Lecturer IV,Flint Biology,84412.37,9-Month,1,84412.37
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,43350.16,8-Month,0.25,10715.76
+Flint,PROFESSOR,Flint Computer Science,103281.26,9-Month,1,103281.26
+Flint,ASSOC PROFESSOR,"Flint Soc,Anthropology & CJ",81621.1,9-Month,1,81621.1
+Flint,ASST PROFESSOR,Flint Dept of Chem/Biochem,64226.91,9-Month,1,64226.91
+Flint,LEO Lecturer II,Flint Biology,59331.22,8-Month,1,58664.56
+Flint,PROFESSOR,Flint Engineering,114586.92,9-Month,1,114586.92
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,36540,8-Month,0.6,21677.68
+Flint,LEO Lecturer IV,Flint Computer Science,78555.17,9-Month,1,78555.17
+Flint,ASST PROFESSOR,Flint Education,56000,9-Month,1,56000
+Flint,LEO Lecturer II,Flint Social Work,50303.47,8-Month,0.5,24869.2
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,0.6,24810.08
+Flint,PROFESSOR,Flint Nursing,121303.26,9-Month,1,121303.26
+Flint,LEO Lecturer IV,Flint Communications Studies,79017.47,9-Month,1,79017.47
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,43916.15,8-Month,0.33,14329.52
+Flint,ASSOC PROFESSOR,Flint Psychology,75682.91,9-Month,1,75682.91
+Flint,ASSOC PROFESSOR,Flint Mathematics,76880.97,9-Month,1,76880.97
+Flint,ASSOC PROFESSOR,Flint Mathematics,80177.24,9-Month,1,80177.24
+Flint,PROFESSOR,Flint School of Management,156290.75,9-Month,1,156290.75
+Flint,ASSOC PROFESSOR,Flint School of Management,143088.91,9-Month,1,143088.91
+Flint,LEO Lecturer IV,Flint Biology,51857.75,9-Month,1,51857.75
+Flint,ASSOC PROFESSOR,Flint Psychology,72819.77,9-Month,1,72819.77
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,0.22,9097.04
+Flint,ASST PROFESSOR,Flint Psychology,64542.77,9-Month,1,64542.77
+Flint,ASSOC PROFESSOR,Flint History,73473.47,9-Month,1,73473.47
+Flint,LEO Intermittent Lecturer,Flint Occupational Therapy,56000,8-Month,0.14,8028.8
+Flint,ASSOC PROFESSOR,Flint Political Science,76614.51,9-Month,1,76614.51
+Flint,LEO Lecturer IV,Flint Dept of Chem/Biochem,58264.4,9-Month,1,58264.4
+Flint,LEO Lecturer IV,Flint Nursing,66832.78,9-Month,1,66832.78
+Flint,LEO Lecturer II,Flint Biology,53118.65,8-Month,1,52521.84
+Flint,VISITING ASST PROFESSOR,Flint Nursing,100000,12-Month,0.6,0
+Flint,LEO Lecturer IV,Flint Political Science,79932.35,9-Month,1,79932.35
+Flint,LEO Lecturer II,Flint Mathematics,45584.13,8-Month,0.33,15008.96
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,60023.82,8-Month,0.75,44512.08
+Flint,LEO Lecturer II,Flint Nursing,49378.57,8-Month,0.44,21482.48
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.43,14749.92
+Flint,PROFESSOR,Flint Economics,124006.94,9-Month,1,124006.94
+Flint,LEO Lecturer IV,Flint School of Management,86310.79,9-Month,0.75,64733.1
+Flint,LEO Lecturer II,Flint School of Management,74705.93,8-Month,1,73866.56
+Flint,LEO Lecturer II,Flint Social Work,50578.66,9-Month,0.25,12644.67
+Flint,LEO Lecturer I,Flint Dept of Chem/Biochem,41820,8-Month,1,41350.16
+Flint,LEO Lecturer I,Flint Foreign Language,41820,8-Month,0.33,13769.6
+Flint,LEO Lecturer IV,Flint Mpa Program,93747.56,9-Month,1,93747.56
+Flint,ASST PROFESSOR,Flint Education,60319.06,9-Month,1,46807.59
+Flint,LEO Lecturer I,Flint Art & Art History,41000,8-Month,0.25,10134.8
+Flint,LEO Lecturer II,Flint Physical Therapy,85551.67,8-Month,0.03,3129.92
+Flint,LEO Intermittent Lecturer,Flint Education,41820,8-Month,0.5,20675.12
+Flint,ASSOC PROFESSOR,Flint Dept Pub Hlth & Hlth Sci,142181.2,12-Month,0.5,71090.6
+Flint,ASSOC PROFESSOR,Flint Communications Studies,76690.63,9-Month,1,76690.63
+Flint,LEO Lecturer I,Flint Education,41820,8-Month,0.66,27559.84
+Flint,LEO Lecturer II,Flint English,46162.1,8-Month,0.25,11410.88
+Flint,PROFESSOR,Flint School of Management,145076.87,9-Month,0.5,72538.43
+Flint,PROFESSOR,Flint School of Management,231462.36,9-Month,1,231462.36
+Flint,LEO Lecturer I,Flint School of Management,51936.76,8-Month,1,51353.28
+Flint,LEO Lecturer I,Flint Education,41820,8-Month,0.25,10337.6
+Flint,LEO Lecturer II,Flint Music,44217,9-Month,0.18,7959.06
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,37270.8,8-Month,0.4,14740.8
+Flint,LEO Lecturer IV,Flint Foreign Language,73511.27,9-Month,1,73511.27
+Flint,LEO Lecturer I,Flint Education,40290,8-Month,0.25,10072.56
+Flint,LEO Lecturer II,Flint Music,47067.79,9-Month,0.54,25416.61
+Flint,LEO Lecturer II,Flint Music,44217,8-Month,0.12,5246.4
+Flint,LEO Intermittent Lecturer,Flint Physical Therapy,69512.8,8-Month,0.11,7560.56
+Flint,LEO Lecturer II,Flint Nursing,43916.38,8-Month,0.22,9553.12
+Flint,PROFESSOR,"Flint Geo, Planning & Environ",107009.12,9-Month,1,107009.12
+Flint,ASSOC PROFESSOR,Flint English,83448.35,9-Month,1,83448.35
+Flint,LEO Lecturer I,Flint Mathematics,41820,8-Month,0.83,34444.72
+Flint,LEO Lecturer IV,Flint Nursing,66483.71,9-Month,1,66483.71
+Flint,LEO Lecturer I,Flint Nursing,41000,8-Month,0.22,8918.64
+Flint,LEO Lecturer II,Flint Nursing,48282.64,8-Month,0.44,21005.68
+Flint,PROFESSOR,Flint Communications Studies,87050.87,9-Month,1,87050.87
+Flint,ASSOC PROFESSOR,Flint Education,72833.19,9-Month,1,72833.19
+Flint,ASSOC PROFESSOR,"Flint Soc,Anthropology & CJ",77725.37,9-Month,1,77725.37
+Flint,LEO Lecturer II,Flint School of Management,62265.5,8-Month,0.25,15391.52
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,47312.66,8-Month,0.25,11695.28
+Flint,ASST PROFESSOR,Flint Dept Pub Hlth & Hlth Sci,78745.65,9-Month,1,78745.65
+Flint,LEO Lecturer IV,Flint Political Science,58519.43,9-Month,1,58519.43
+Flint,LEO Lecturer II,Flint Nursing,48266.61,8-Month,0.4,19089.76
+Flint,LEO Intermittent Lecturer,Flint Dept Pub Hlth & Hlth Sci,41820,8-Month,0.25,10337.6
+Flint,ASSOC PROFESSOR,Flint Biology,75971.15,9-Month,1,75971.15
+Flint,LEO Lecturer II,Flint Nursing,44690,8-Month,0.26,11776.08
+Flint,LEO Lecturer II,Flint Nursing,45642.5,8-Month,0.2,9025.92
+Flint,LEO Lecturer II,Flint Education,44690,9-Month,0.25,11172.5
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,37611.08,8-Month,0.43,16316.48
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.25,8404.48
+Flint,PROFESSOR,Flint Mathematics,106569.1,9-Month,1,106569.1
+Flint,ASSOC PROFESSOR,Flint English,76133.58,9-Month,1,76133.58
+Flint,LEO Lecturer I,Flint Music,41820,8-Month,0.08,3308.08
+Flint,LEO Lecturer IV,Flint Communications Studies,54370.23,9-Month,1,54370.23
+Flint,LEO Lecturer II,Flint Economics,50303.39,8-Month,0.75,37303.68
+Flint,LEO Lecturer II,Flint Music,43350,8-Month,0.04,1714.48
+Flint,ASSOC PROFESSOR,Flint Communications Studies,82021.36,9-Month,1,82021.36
+Flint,LEO Lecturer III,Flint Psychology,46818,9-Month,1,46818
+Flint,PROFESSOR,Flint Dept Pub Hlth & Hlth Sci,147910.88,9-Month,1,147910.88
+Flint,ASSOC PROFESSOR,Flint Art & Art History,79782.06,9-Month,1,79782.06
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,43916.1,8-Month,0.17,7381.84
+Flint,ASST PROFESSOR,Flint Nursing,76500,9-Month,1,76500
+Flint,LEO Lecturer I,Flint Art & Art History,41820,8-Month,0.5,20675.04
+Flint,LEO Lecturer IV,Flint Communications Studies,63152.38,9-Month,1,63152.38
+Flint,PROFESSOR,Flint Mathematics,99722.55,9-Month,1,99722.55
+Flint,PROFESSOR,Flint School of Management,159487.23,9-Month,1,159487.23
+Flint,LEO Lecturer IV,Flint Education,58370.04,9-Month,1,58370.04
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,36622.3,8-Month,0.6,21726.48
+Flint,LEO Lecturer IV,Flint Biology,62665.12,9-Month,1,62665.12
+Flint,LEO Lecturer III,Flint Psychology,50000,9-Month,1,50000
+Flint,ASSOC PROFESSOR,"Flint Soc,Anthropology & CJ",85152.55,9-Month,1,85152.55
+Flint,ASSOC PROFESSOR,Flint Physical Therapy,126000,12-Month,0.5,63000
+Flint,LEO Lecturer I,Flint Biology,41000,8-Month,0.66,26999.2
+Flint,LEO Lecturer I,Flint Dept Pub Hlth & Hlth Sci,41820,8-Month,0.5,20675.12
+Flint,PROFESSOR,Flint Dept of Chem/Biochem,85357.3,9-Month,1,85357.3
+Flint,LEO Lecturer II,"Flint Soc,Anthropology & CJ",44268,8-Month,0.25,10942.64
+Flint,ASST PROFESSOR,Flint Computer Science,81581.2,9-Month,1,81581.2
+Flint,ASST PROFESSOR,Flint Education,60319.06,9-Month,1,60319.06
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,45584.05,8-Month,0.25,11268
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,44747.49,8-Month,0.25,11061.2
+Flint,LEO Lecturer II,Flint Physics,47312.29,8-Month,0.41,19507.6
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,0.13,5509.92
+Flint,LEO Lecturer I,Flint Biology,41820,8-Month,0.75,31012.56
+Flint,LEO Lecturer IV,Flint School of Management,104230.3,9-Month,1,104230.3
+Flint,LEO Lecturer II,Flint Art & Art History,49544.91,8-Month,0.5,24494.16
+Flint,ASSOC PROFESSOR,Flint Nursing,89320,9-Month,1,89320
+Flint,LEO Lecturer II,Flint Nursing,57483.53,8-Month,0.2,11367.6
+Flint,PROFESSOR,Flint Biology,93243.91,9-Month,1,93243.91
+Flint,ASSOC PROFESSOR,Flint Dept Pub Hlth & Hlth Sci,85154.56,9-Month,1,85154.56
+Flint,PROFESSOR,Flint English,112380.73,9-Month,1,112380.73
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,64905.6,8-Month,0.34,21820
+Flint,ASSOC PROFESSOR,Flint Computer Science,91702,9-Month,1,91702
+Flint,ASSOC PROFESSOR,Flint Computer Science,92380.92,9-Month,1,92380.92
+Flint,ASSOC PROFESSOR,Flint Biology,74146.94,9-Month,1,74146.94
+Flint,LEO Lecturer II,Flint Physics,45642.39,8-Month,0.83,37638.08
+Flint,LEO Lecturer IV,Flint Psychology,51964.27,9-Month,1,51964.27
+Flint,LEO Lecturer I,Flint Mathematics,41820,8-Month,0.25,10337.6
+Flint,ASSOC PROFESSOR,Flint Mathematics,72927.01,9-Month,1,72927.01
+Flint,LEO Lecturer IV,Flint English,89693.57,9-Month,1,89693.57
+Flint,ASSOC PROFESSOR,Flint Education,78929.96,9-Month,1,78929.96
+Flint,LEO Lecturer II,Flint Social Work,45153.36,8-Month,0.5,22323.04
+Flint,ASST PROFESSOR,Flint Physical Therapy,99095.61,12-Month,1,99095.61
+Flint,LEO Intermittent Lecturer,Flint Dept Pub Hlth & Hlth Sci,54344.16,8-Month,0.17,9134.72
+Flint,LEO Lecturer II,Flint Education,44690,9-Month,0.25,11172.5
+Flint,ASSOC PROFESSOR,Flint Dept of Chem/Biochem,82386.94,9-Month,1,82386.94
+Flint,LEO Lecturer I,Flint Occupational Therapy,63240,8-Month,0.31,19384.16
+Flint,ASST PROFESSOR,Flint Biology,63153.3,9-Month,1,63153.3
+Flint,LEO Lecturer II,Flint Dept of Chem/Biochem,43916.15,8-Month,1,43422.72
+Flint,LEO Intermittent Lecturer,Flint Nursing,44516,8-Month,0.1,4401.6
+Flint,LEO Lecturer I,Flint Nursing,41000,8-Month,0.22,8918.64
+Flint,PROFESSOR,Flint English,176868.98,9-Month,1,176868.98
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,45608.9,9-Month,0.25,11402.23
+Flint,LEO Lecturer I,Flint Physical Therapy,64719.74,8-Month,0.13,8639.04
+Flint,PROFESSOR,Flint Mathematics,90027.99,9-Month,1,90027.99
+Flint,LEO Lecturer II,Flint Education,57435.85,8-Month,0.5,28395.28
+Flint,ASSOC PROFESSOR,Flint Nursing,116000,12-Month,0.5,58000
+Flint,LEO Lecturer I,Flint Dept Pub Hlth & Hlth Sci,41820,8-Month,0.25,10337.6
+Flint,LEO Lecturer II,Flint Nursing,55924.16,8-Month,0.2,11059.2
+Flint,LEO Lecturer II,Flint Communications Studies,45583.86,8-Month,0.25,11267.92
+Flint,ASSOC PROFESSOR,Flint Computer Science,95616.31,9-Month,1,95616.31
+Flint,LEO Lecturer I,Flint Music,41000,8-Month,0.04,1621.6
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,56818.25,8-Month,0.42,23595.52
+Flint,LEO Lecturer II,"Flint Soc,Anthropology & CJ",44690,9-Month,0.75,33517.5
+Flint,LEO Lecturer I,Flint Physical Therapy,62021.82,8-Month,0.24,14779.28
+Flint,PROFESSOR,Flint Engineering,119921.21,9-Month,0.25,29980.3
+Flint,PROFESSOR,Flint Physics,119921.21,9-Month,0.75,89940.91
+Flint,ASSOC PROFESSOR,Flint Philosophy,72169.11,9-Month,1,72169.11
+Flint,ASSOC PROFESSOR,Flint Art & Art History,75170.54,9-Month,1,75170.54
+Flint,LEO Lecturer II,Flint Political Science,100079.63,9-Month,0.5,50039.82
+Flint,LEO Lecturer II,Flint Dept Pub Hlth & Hlth Sci,82857.46,8-Month,0.17,13927.52
+Flint,LEO Lecturer IV,Flint English,53756.33,9-Month,1,53756.33
+Flint,LEO Lecturer IV,Flint Biology,77778.31,9-Month,1,77778.31
+Flint,LEO Lecturer II,Flint Mathematics,44217.09,8-Month,0.75,32790.24
+Flint,ASSOC PROFESSOR,Flint Political Science,72608.94,9-Month,1,72608.94
+Flint,LEO Lecturer II,Flint Nursing,45642.59,8-Month,0.22,9928.56
+Flint,ASST PROFESSOR,Flint Education,59136.34,9-Month,1,59136.34
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34000,8-Month,0.9,30256.16
+Flint,LEO Lecturer IV,Flint Philosophy,75555.56,9-Month,1,75555.56
+Flint,LEO Lecturer IV,Flint Biology,74151.28,9-Month,1,74151.28
+Flint,LEO Lecturer II,Flint English,44217.09,8-Month,0.75,32790.24
+Flint,LEO Lecturer I,Flint Nursing,41820,8-Month,0.13,5509.92
+Flint,LEO Intermittent Lecturer,Flint Nursing,41820,8-Month,0.22,9097.04
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,34510,8-Month,0.3,10236.64
+Flint,LEO Lecturer I,Flint Music,41000,8-Month,0.04,1621.6
+Flint,ASSOC PROFESSOR,Flint School of Management,131055.27,9-Month,1,131055.27
+Flint,ASSOC PROFESSOR,Flint Education,70620.78,9-Month,1,70620.78
+Flint,LEO Lecturer IV,Flint English,59702.79,9-Month,1,59702.79
+Flint,LEO Lecturer II,Flint English,44217,9-Month,1,44217
+Flint,ASST PROFESSOR,Flint Nursing,81514.14,9-Month,1,81514.14
+Flint,LEO Lecturer II,Flint Africana Studies Dept,48472.36,9-Month,0.25,12118.09
+Flint,ASSOC PROFESSOR,Flint Biology,72281.34,9-Month,1,72281.34
+Flint,LEO Lecturer IV,Flint School of Management,79382.52,9-Month,0.25,19845.63
+Flint,LEO Lecturer II,Flint Music,46557.9,8-Month,0.41,18874.24
+Flint,PROFESSOR,Flint Psychology,103362.09,9-Month,1,103362.09
+Flint,ADJUNCT CLINICAL LECTURER,Flint Nursing,36000,8-Month,0.57,20289.44
+Flint,ASSOC PROFESSOR,Flint Education,90960.57,9-Month,1,90960.57
+Flint,ASST PROFESSOR,Flint Dept of Chem/Biochem,63153.3,9-Month,1,63153.3
+Flint,ASSOC PROFESSOR,Flint School of Management,140625.28,9-Month,1,140625.28
+Flint,LEO Lecturer II,Flint Biology,43916.15,8-Month,1,43422.72
+Flint,LEO Lecturer IV,Flint Biology,58747.38,9-Month,1,58747.38
+Flint,ASSOC PROFESSOR,Flint Physical Therapy,107795.11,12-Month,0.9,97015.6
+Flint,LEO Lecturer I,Flint Occupational Therapy,63240,8-Month,0.17,10630.08
+Flint,LEO Lecturer III,Flint Art & Art History,49127.69,9-Month,1,49127.69
+Flint,ASST PROFESSOR,Flint Engineering,82530.77,9-Month,1,82530.77
+Flint,LEO Lecturer I,Flint Philosophy,41820,8-Month,0.5,20675.12
